@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Baumans&family=Fascinate&family=Lobster&family=Manrope:wght@400;500&display=swap');
+
+.que1{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 20px;
+}
+
+.items{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.color{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(235, 15, 15);
+    text-decoration: underline;
+}
